@@ -1,0 +1,13 @@
+{
+  "measured_at": "2026-08-27T22:16:00+08:00",
+  "environment": "local macOS, Vinext dev server, local Cloudflare D1/Miniflare, sequential requests",
+  "endpoint": "/api?action=glance&patient_id=patient-1",
+  "warmup_requests": 10,
+  "measured_requests": 200,
+  "p50_ms": 6.72,
+  "p95_ms": 9.69,
+  "max_ms": 21.31,
+  "target_ms": 300,
+  "target_met": true,
+  "limitations": "Local warm-path benchmark excludes WAN, TLS termination, cold starts and production concurrency."
+}
