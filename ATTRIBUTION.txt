@@ -1,0 +1,28 @@
+NIGHTINGALE CARE NOTE — EXTERNAL ATTRIBUTIONS
+Verified from installed package metadata on 27 August 2026.
+
+Runtime / application
+- Next.js 16.2.6 — MIT License — https://github.com/vercel/next.js
+- React 19.2.6 — MIT License — https://github.com/facebook/react
+- React DOM 19.2.6 — MIT License — https://github.com/facebook/react
+- Drizzle ORM 0.45.2 — Apache License 2.0 — https://github.com/drizzle-team/drizzle-orm
+- Vinext 1.0.0-beta.3 — MIT License — https://github.com/cloudflare/vinext
+- @openai/sites-vite-plugin 0.2.0 — MIT License — https://github.com/openai/sites
+
+Build / development
+- Vite 8.0.13 — MIT License — https://github.com/vitejs/vite
+- @cloudflare/vite-plugin 1.37.1 — MIT License — https://github.com/cloudflare/workers-sdk
+- @cloudflare/workers-types 4.20260515.1 — MIT OR Apache-2.0 — https://github.com/cloudflare/workerd
+- Drizzle Kit 0.31.10 — MIT License — https://github.com/drizzle-team/drizzle-orm
+- Tailwind CSS 4.2.1 — MIT License — https://github.com/tailwindlabs/tailwindcss
+- TypeScript 5.9.3 — Apache License 2.0 — https://github.com/microsoft/TypeScript
+- ESLint 9.39.4 — MIT License — https://github.com/eslint/eslint
+
+Test tooling
+- pytest 8.3.5 — MIT License — https://github.com/pytest-dev/pytest
+- Requests 2.32.3 — Apache License 2.0 — https://github.com/psf/requests
+
+Models / APIs / assets
+- No external LLM, speech model, transcription API, clinical terminology API, icon library, stock imagery, font file or patient dataset is called or bundled by the prototype.
+- All patient, clinician, staff, transcript and clinical-note content is authored synthetic demonstration data.
+- The “N” mark and interface styling are original to this submission and use no third-party visual asset.
