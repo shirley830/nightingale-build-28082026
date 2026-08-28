@@ -31,4 +31,4 @@
 | Hosted application | Complete, owner-only | Production build deployed with server D1 binding | Live page and `/api?action=health` returned HTTP 200 |
 | Demo video | Manual recording remaining | Exact clean state and 4-minute Scenario B script prepared | `docs/DEMO_SCRIPT.md` |
 | Resume / WhatsApp / WeChat | User-provided submission item | Not available in workspace; intentionally not fabricated | Manual step |
-| Public GitHub URL | Pending GitHub access | Local repository has four logical commits; submission ZIP preserves `.git` history | `git log`; ZIP artifact |
+| Public GitHub URL | Pending GitHub access | Local repository has logical commit history; submission ZIP preserves `.git` history | `git log`; ZIP artifact |
