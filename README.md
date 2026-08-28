@@ -2,6 +2,8 @@
 
 A working, synthetic-data-only longitudinal care collaboration application. It turns fragmented consult notes into a single role-aware patient story with a sub-10-second Glance View, exact source traceability, collaboration, revision control, deterministic clinical safety floors, bounded importance learning, and a clinician-approved patient boundary.
 
+Owner-only hosted demo: `https://nightingale-care-note-72hr.janki66.chatgpt.site`
+
 > Prototype safety posture: this is not a medical device and is not for real PHI or clinical decisions. The demo identities and patient are synthetic.
 
 ## What is implemented

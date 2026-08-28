@@ -28,6 +28,7 @@
 | README | Complete | Setup, architecture, security, privacy, logic, results, demo | `README.md` |
 | 2–3 page Technical Brief | Complete | Word brief with diagram/schema/trade-offs/results | `Technical-Brief.docx` after render QA |
 | ATTRIBUTION.txt | Complete | Installed package versions and verified licenses | `ATTRIBUTION.txt` |
+| Hosted application | Complete, owner-only | Production build deployed with server D1 binding | Live page and `/api?action=health` returned HTTP 200 |
 | Demo video | Manual recording remaining | Exact clean state and 4-minute Scenario B script prepared | `docs/DEMO_SCRIPT.md` |
 | Resume / WhatsApp / WeChat | User-provided submission item | Not available in workspace; intentionally not fabricated | Manual step |
-| Published Git URL | Pending credentials | Local Git-ready repository prepared | Exact publish commands in final handoff |
+| Public GitHub URL | Pending GitHub access | Local repository has four logical commits; submission ZIP preserves `.git` history | `git log`; ZIP artifact |
