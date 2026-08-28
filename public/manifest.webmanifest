@@ -1,0 +1,10 @@
+{
+  "name": "Nightingale Care Note",
+  "short_name": "Care Note",
+  "description": "Synthetic-data longitudinal care collaboration demo",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f8f6",
+  "theme_color": "#173e35",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
