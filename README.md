@@ -4,6 +4,8 @@ A working, synthetic-data-only longitudinal care collaboration application. It t
 
 Owner-only hosted demo: `https://nightingale-care-note-72hr.janki66.chatgpt.site`
 
+Public source repository: `https://github.com/shirley830/nightingale-build-28082026`
+
 > Prototype safety posture: this is not a medical device and is not for real PHI or clinical decisions. The demo identities and patient are synthetic.
 
 ## What is implemented
